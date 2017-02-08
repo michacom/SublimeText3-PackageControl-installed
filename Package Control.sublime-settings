@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Alignment",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Can I Use",
+		"CSV",
+		"DocBlockr",
+		"EditorConfig",
+		"Git",
+		"GitSyntaxes",
+		"Google Search",
+		"InsertDate",
+		"JSX",
+		"MavensMate",
+		"Merge Variables",
+		"npm",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Pretty JSON",
+		"RESTer HTTP Client",
+		"SCSS",
+		"SideBarEnhancements",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/SideBarEnhancements/tree/st3"
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*-meta.xml",
+		"*.sublime-project",
+		"*.sublime-settings",
+		"*.sublime-workspace"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"JSX",
+		"Vintage"
+	],
+	"soda_folder_icons": false,
+	"spell_check": false,
+	"theme": "Soda Dark 3.sublime-theme"
+}

@@ -1,0 +1,16 @@
+{
+
+    "active_sets": [ "main" ],
+
+    "sets": {
+
+        "main": {
+            "##NAME##": "Michael Simkin",
+            "##EMAIL##": "msimkin@salesforce.com",
+            "##FNAME##": "##NAME## ##EMAIL##",
+            "@@ADD@@": "@history ##FNAME## - Add -"
+        }
+
+    }
+
+}

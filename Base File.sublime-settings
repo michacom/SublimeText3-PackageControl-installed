@@ -1,0 +1,13 @@
+{
+    // The mid-line characters to align in a multi-line selection, changing this to an empty array will disable mid-line alignment
+    "alignment_chars": [ "=", ":", "=>", "\t", "{", "}" ],
+
+    "jsdocs_extra_tags_go_after": true,
+    "jsdocs_extra_tags": [
+    	"@author Michael Simkin (msimkin@salesforce.com)",
+    	"@since {{date}}",
+    	"@history {{date}} - Michael Simkin - "
+    ],
+    "jsdocs_quick_open_inline": true
+
+}

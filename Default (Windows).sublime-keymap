@@ -1,0 +1,5 @@
+[
+
+  { "keys": [ "ctrl+f5", "ctrl+e" ], "command": "insert_date", "args": { "format": "%m/%d %Y" } },
+
+]
